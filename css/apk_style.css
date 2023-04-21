@@ -806,6 +806,16 @@ section a:hover {
   justify-content: var(--justify-content);
 }
 
+.apk_title_logo_content a {
+  display: inline-block;
+  padding: 10px;
+}
+
+.apk_title_logo_content a img {
+  width: 100%;
+  height: auto;
+}
+
 .apk_title_content {
   display: var(--display);
   justify-content: var(--justify-content);
