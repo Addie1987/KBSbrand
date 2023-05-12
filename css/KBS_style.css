@@ -779,10 +779,11 @@ body:before {
   margin: 0 16px;
   display: var(--display);
   align-items: var(--align-items);
+  justify-content: var(--justify-content);
 }
 
 .Cooperation_content ul li img {
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 
@@ -795,6 +796,8 @@ body:before {
     width: 100%;
     height: auto;
     margin: 10px 0;
+    display: var(--display);
+    justify-content: var(--justify-content);
   }
 }
 
